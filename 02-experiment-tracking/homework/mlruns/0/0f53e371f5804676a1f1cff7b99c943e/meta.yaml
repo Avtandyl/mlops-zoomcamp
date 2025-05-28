@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/0f53e371f5804676a1f1cff7b99c943e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f53e371f5804676a1f1cff7b99c943e
+run_name: welcoming-yak-90
+run_uuid: 0f53e371f5804676a1f1cff7b99c943e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748374712800
+status: 1
+tags: []
+user_id: codespace
